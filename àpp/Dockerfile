@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 EXPOSE 8080
 
 # Run the command to start the app
-CMD ["python", "1XBetCrashUpdater.py"]
+#CMD ["python", "1XBetCrashUpdater.py"]
